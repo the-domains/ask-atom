@@ -1,28 +1,36 @@
-name: Ask Atom
-favicon: null
-layout_spectrum: 0.48799
-typography_spectrum: 0.88501
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#1d1c00'
-    - '#565435'
-    - '#f6c27e'
-    - '#7d834b'
-    - '#fff2be'
-  brandStrength: 0
-  lightness: 0.375
-  saturation: 1
-  rhythmicContrast: 0.25
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.375
+  brandColors:
+    - '#201714'
+  rhythmicContrast: 0.25
+typography_spectrum: 0.7560635
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Ask Atom
