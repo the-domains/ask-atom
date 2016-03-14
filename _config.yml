@@ -1,7 +1,7 @@
 name: Ask Atom
 favicon: null
-layout_spectrum: 0.5564034797716886
-typography_spectrum: 0.9602275770157576
+layout_spectrum: 0.48799
+typography_spectrum: 0.88501
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.9257443202659488
-  lightness: 0.2747633943799883
-  saturation: 0.9927938845939934
-  rhythmicContrast: 0.9457295436877757
+    - '#642900'
+    - '#a35f14'
+    - '#e2b773'
+    - '#b23710'
+    - '#800000'
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
