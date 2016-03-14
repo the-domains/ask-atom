@@ -4,8 +4,15 @@
         <description><![CDATA[Ask Atom]]></description>
         <link>https://thegrid.ai/ask-atom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 17:25:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ask-atom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Investigating using A-Frame to display classic stereoscopic scenes on modern equipment.</p>]]></description>
+            <link>https://thegrid.ai/ask-atom/investigating-using-a-frame-to-display-classic-stereoscopic/index.html</link>
+            <guid isPermaLink="false">f7ba3b06-9211-4875-abe9-4c638f4af64f</guid>
+            <pubDate>Mon, 14 Mar 2016 17:24:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b77039a3-2687-4d2f-a208-5c0a09328b89.png">]]></description>
