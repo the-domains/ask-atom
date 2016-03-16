@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: But much of the amazing 3D effect is squashed without a Holmes viewer
-datePublished: '2016-03-14T17:24:48.589Z'
-dateModified: '2016-03-14T17:20:57.354Z'
+datePublished: '2016-03-16T04:55:06.263Z'
+dateModified: '2016-03-16T04:54:53.289Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-14-but-much-of-the-amazing-3d-effect-is-squashed-without-a-holm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-but-much-of-the-amazing-3d-effect-is-squashed-without-a-holm.md
-published: true
 url: but-much-of-the-amazing-3d-effect-is-squashed-without-a-holm/index.html
 _type: Article
 
