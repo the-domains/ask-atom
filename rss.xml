@@ -4,7 +4,7 @@
         <description><![CDATA[Ask Atom]]></description>
         <link>https://thegrid.ai/ask-atom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 04:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 04:57:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ask-atom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A-Frame texture component exploring]]></title>
@@ -12,13 +12,6 @@
             <link>http://codepen.io/theAtom/pen/eZBXjQ</link>
             <guid isPermaLink="false">3a43332a-d586-450e-a41a-f41d0c84e5da</guid>
             <pubDate>Wed, 16 Mar 2016 04:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Investigating using A-Frame to display classic stereoscopic scenes on modern equipment.</p>]]></description>
-            <link>https://thegrid.ai/ask-atom/investigating-using-a-frame-to-display-classic-stereoscopic/index.html</link>
-            <guid isPermaLink="false">f7ba3b06-9211-4875-abe9-4c638f4af64f</guid>
-            <pubDate>Mon, 14 Mar 2016 17:24:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
