@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Adam Schuster
-    url: 'http://codepen.io/theAtom/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://codepen.io'
-  name: CodePen
-  favicon: 'http://codepen.io/favicon.ico'
-  domain: codepen.io
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://codepen.io/theAtom/pen/eZBXjQ'
+inLanguage: en
+starred: false
 keywords:
   - newmaterial
   - setattribute
@@ -21,17 +17,23 @@ keywords:
   - init
   - codepen
 description: "Forked from [MozVR](http://codepen.io/team/mozvr/)'s Pen [Hello World - A-Frame](http://codepen.io/team/mozvr/pen/BjygdO/)...."
-inLanguage: en
+datePublished: '2016-03-22T03:16:53.841Z'
+dateModified: '2016-03-16T04:57:51.568Z'
+author:
+  - name: Adam Schuster
+    url: 'http://codepen.io/theAtom/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://codepen.io/theAtom/pen/eZBXjQ'
 title: A-Frame texture component exploring
-datePublished: '2016-03-16T04:57:43.078Z'
-dateModified: '2016-03-16T04:56:52.334Z'
 sourcePath: _posts/2016-03-16-a-frame-texture-component-exploring.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: CodePen
+  domain: codepen.io
+  url: 'http://codepen.io'
+  favicon: 'http://codepen.io/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
