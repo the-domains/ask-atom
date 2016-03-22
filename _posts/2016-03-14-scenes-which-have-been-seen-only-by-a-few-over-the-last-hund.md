@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Scenes which have been seen only by a few over the last hundred+ years, still delight and provoke thought.'
-datePublished: '2016-03-14T17:24:40.171Z'
-dateModified: '2016-03-14T17:15:47.117Z'
-title: ''
+datePublished: '2016-03-22T03:16:45.816Z'
+dateModified: '2016-03-22T03:16:45.433Z'
+title: Scenes few have seen.
 author: []
+sourcePath: _posts/2016-03-14-scenes-which-have-been-seen-only-by-a-few-over-the-last-hund.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-scenes-which-have-been-seen-only-by-a-few-over-the-last-hund.md
-published: true
 url: scenes-which-have-been-seen-only-by-a-few-over-the-last-hund/index.html
 _type: Article
 
