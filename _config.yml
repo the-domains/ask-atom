@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Ask Atom
 opengraph:
   image: null
   type: null
@@ -12,16 +9,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 1
-  brandStrength: 0.5125448
+  saturation: 0.7060932
+  brandStrength: 0.1810036
   lightness: 0.375
   brandColors:
     - '#4D525B'
@@ -35,6 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1810036
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: Ask Atom
+layout_spectrum: 0.1810036
