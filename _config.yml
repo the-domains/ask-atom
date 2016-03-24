@@ -1,3 +1,4 @@
+favicon: null
 name: Ask Atom
 opengraph:
   image: null
@@ -9,31 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.5125448
   lightness: 0.375
   brandColors:
-    - '#000000'
-    - '#C24124'
-    - '#4D485C'
-    - '#42160C'
+    - '#4D525B'
+    - '#CFCED0'
+    - '#E8AC65'
+    - '#888789'
+    - '#914B02'
   rhythmicContrast: 0.25
 typography_spectrum: 0.7560635
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1810036
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
