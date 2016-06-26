@@ -1,8 +1,7 @@
-layout_spectrum: 0.6627799
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Ask Atom
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.8222948
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7060932
-  brandStrength: 0.1810036
-  rhythmicContrast: 0.25
   brandColors:
     - '#4D525B'
     - '#CFCED0'
     - '#E8AC65'
     - '#888789'
     - '#914B02'
+  brandStrength: 0.1810036
   lightness: 0.375
-typography_spectrum: 0.8222948
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Ask Atom
+  saturation: 0.7060932
+  rhythmicContrast: 0.25
+purpose: []
