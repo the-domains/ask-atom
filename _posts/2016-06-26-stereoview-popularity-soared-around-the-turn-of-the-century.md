@@ -11,15 +11,15 @@ description: >-
   equivalent) they remain out of reach for stereoscopic scholarship. [1]
   Waldsmith, J. 1991. Stereo Views: An Illustrated History and Price Guide.
   Wallace-Homestead Book Company.
-datePublished: '2016-06-26T02:27:54.576Z'
-dateModified: '2016-06-26T02:27:45.136Z'
-authors: []
-publisher: null
+datePublished: '2016-06-26T02:32:23.384Z'
+dateModified: '2016-06-26T02:28:03.483Z'
 title: ''
 author: []
-starred: false
 sourcePath: >-
   _posts/2016-06-26-stereoview-popularity-soared-around-the-turn-of-the-century.md
+authors: []
+publisher: null
+starred: false
 url: stereoview-popularity-soared-around-the-turn-of-the-century/index.html
 _type: Article
 
