@@ -4,7 +4,7 @@
         <description><![CDATA[Ask Atom]]></description>
         <link>https://thegrid.ai/ask-atom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 02:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 02:31:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ask-atom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/ask-atom/scenes-which-have-been-seen-only-by-a-few-over-the-last-hund/index.html</link>
             <guid isPermaLink="false">a007e81b-37c0-44ec-9364-f09184f0fd51</guid>
             <pubDate>Tue, 22 Mar 2016 03:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rejuvenating Vintage Stereocards]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62eb69fc-1da8-4572-9434-012b435cb754.png">]]></description>
-            <link>https://thegrid.ai/ask-atom/rejuvenating-vintage-stereocards/index.html</link>
-            <guid isPermaLink="false">7c964d26-afcd-4b06-842a-bfe0a9515f46</guid>
-            <pubDate>Mon, 14 Mar 2016 17:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
