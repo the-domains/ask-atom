@@ -1,7 +1,7 @@
 name: Ask Atom
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.8222948
+typography_spectrum: 0.7844
 collections:
   - index:
       path: /
