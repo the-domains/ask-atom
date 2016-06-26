@@ -4,7 +4,7 @@
         <description><![CDATA[Ask Atom]]></description>
         <link>https://thegrid.ai/ask-atom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 02:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 02:31:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ask-atom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/ask-atom/but-much-of-the-amazing-3d-effect-is-squashed-without-a-holm/index.html</link>
             <guid isPermaLink="false">f8887ac7-e5b7-485f-af79-0de36cab8df1</guid>
             <pubDate>Tue, 22 Mar 2016 03:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A-Frame texture component exploring]]></title>
-            <description><![CDATA[Forked from [MozVR](http://codepen.io/team/mozvr/)'s Pen [Hello World - A-Frame](http://codepen.io/team/mozvr/pen/BjygdO/)....]]></description>
-            <link>http://codepen.io/theAtom/pen/eZBXjQ</link>
-            <guid isPermaLink="false">3a43332a-d586-450e-a41a-f41d0c84e5da</guid>
-            <pubDate>Tue, 22 Mar 2016 03:16:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scenes few have seen.]]></title>
