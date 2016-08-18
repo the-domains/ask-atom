@@ -1,7 +1,30 @@
-name: Ask Atom
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.7844
+color:
+  brandColors:
+    - '#4D525B'
+    - '#CFCED0'
+    - '#E8AC65'
+    - '#888789'
+    - '#914B02'
+  brandStrength: 0.1810036
+  lightness: 0.375
+  saturation: 0.7060932
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ask Atom
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#4D525B'
-    - '#CFCED0'
-    - '#E8AC65'
-    - '#888789'
-    - '#914B02'
-  brandStrength: 0.1810036
-  lightness: 0.375
-  saturation: 0.7060932
-  rhythmicContrast: 0.25
+title: Ask Atom
 purpose: []
