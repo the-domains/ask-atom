@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ask Atom]]></title>
-        <description><![CDATA[Ask Atom]]></description>
+        <title><![CDATA[because atoms make up everything]]></title>
+        <description><![CDATA[because atoms make up everything]]></description>
         <link>https://thegrid.ai/ask-atom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 02:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 18:13:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ask-atom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Stereoview popularity soared around the turn-of-the-century, resulting in what is considered to be the first populist mass-media1. Hundreds of thousands of these stereoviews have been digitized. However, without a stereoscope (or equivalent) they remain out of reach for stereoscopic scholarship. [1] Waldsmith, J. 1991. Stereo Views: An Illustrated History and Price Guide. Wallace-Homestead Book Company.</p>]]></description>
+            <title><![CDATA[On Stereoviews]]></title>
+            <description><![CDATA[<article><h1>On Stereoviews</h1><p>Stereoview popularity soared around the turn-of-the-century, resulting in what is considered to be the first populist mass-media [1]. Hundreds of thousands of these stereoviews have been digitized. However, without a stereoscope (or equivalent) they remain out of reach for stereoscopic scholarship. </p></article>]]></description>
             <link>https://thegrid.ai/ask-atom/stereoview-popularity-soared-around-the-turn-of-the-century/index.html</link>
             <guid isPermaLink="false">00e3d5fc-7951-45dc-83f2-b6879e0e982e</guid>
-            <pubDate>Sun, 26 Jun 2016 02:32:23 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 18:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Bridge to the Future, or the Past]]></title>
