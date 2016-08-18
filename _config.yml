@@ -40,6 +40,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: because atoms make up everything
 description: ''
 purpose: []
