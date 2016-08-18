@@ -40,6 +40,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Ask Atom
+title: because atoms make up everything
 description: because atoms make up everything
 purpose: []
