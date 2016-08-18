@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/906f16cd-94e9-49e4-8008-2af4eed91ca4.svg
 name: Ask Atom
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/367257ed-20e2-4cf2-aa41-c5b26702ce92.png
 collections:
   - index:
       path: /
