@@ -41,5 +41,5 @@ collections:
     permalink:
       path: '/:title/'
 title: ''
-description: because atoms make up everything
+description: ''
 purpose: []
